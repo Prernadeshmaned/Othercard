@@ -10,6 +10,7 @@ const ContactUs = () => {
         <Container className="mt-5 text-center">
             <h1>Contact Us - Mehandi Services</h1>
             <p>Reach out to us for bookings and queries.</p>
+             <p>Connect with us</p>
 
             {/* Back to Dashboard Button */}
             <Button
